@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="BanHangForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CacFormChiTiet\ChiTietHoaDonForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CacFormChiTiet\ChiTietKhachHangForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CacFormChiTiet\ChiTietLoaiSanPhamForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CacFormChiTiet\ChiTietNguoiDungForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CacFormChiTiet\ChiTietNhaCungCapForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CacFormChiTiet\ChiTietPhanQuyenForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CacFormChiTiet\ChiTietPhieuNhapForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CacFormChiTiet\ChiTietSanPhamForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CacFormChiTiet\SuaChiTietPhieuNhapForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CacFormChiTiet\TestChiTietKhuyenMaiForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CacFormChon\ChonKhuyenMai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CacFormChon\ChonNhaCungCap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CacFormChon\TestChonKhuyenMaiForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CacFormDuLieu\DangNhapForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CacFormDuLieu\HoaDonForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CacFormDuLieu\KhachHangForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CacFormDuLieu\KhuyenMaiForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CacFormDuLieu\LoaiSanPhamForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CacFormDuLieu\NguoiDungForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CacFormDuLieu\NhaCungCapForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CacFormDuLieu\PhanQuyenForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CacFormDuLieu\PhieuNhapForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CacFormDuLieu\SanPhamForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CacFormThongBao\CanhBaoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CacFormThongBao\XacNhanForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoiMatKhauForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DonDatHangControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="DonNhapHangUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NhapHangForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SanPhamControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="SanPhamNhapHangUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="TrangChuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

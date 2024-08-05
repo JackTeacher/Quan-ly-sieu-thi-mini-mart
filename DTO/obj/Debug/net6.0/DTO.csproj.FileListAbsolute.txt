@@ -1,0 +1,36 @@
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\DTO\bin\Debug\net6.0\DTO.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\DTO\bin\Debug\net6.0\DTO.pdb
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\DTO\obj\Debug\net6.0\DTO.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\DTO\obj\Debug\net6.0\DTO.pdb
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\DTO\obj\Debug\net6.0\ref\DTO.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\DTO\bin\Debug\net6.0\DTO.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\DTO\bin\Debug\net6.0\DTO.pdb
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\DTO\obj\Debug\net6.0\DTO.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\DTO\obj\Debug\net6.0\DTO.pdb
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\DTO\obj\Debug\net6.0\ref\DTO.dll
+D:\C#\Mini-Mart by Nhung\DTO\bin\Debug\net6.0\DTO.deps.json
+D:\C#\Mini-Mart by Nhung\DTO\bin\Debug\net6.0\DTO.dll
+D:\C#\Mini-Mart by Nhung\DTO\bin\Debug\net6.0\DTO.pdb
+D:\C#\Mini-Mart by Nhung\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+D:\C#\Mini-Mart by Nhung\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Mini-Mart by Nhung\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+D:\C#\Mini-Mart by Nhung\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+D:\C#\Mini-Mart by Nhung\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+D:\C#\Mini-Mart by Nhung\DTO\obj\Debug\net6.0\DTO.dll
+D:\C#\Mini-Mart by Nhung\DTO\obj\Debug\net6.0\refint\DTO.dll
+D:\C#\Mini-Mart by Nhung\DTO\obj\Debug\net6.0\DTO.pdb
+D:\C#\Mini-Mart by Nhung\DTO\obj\Debug\net6.0\ref\DTO.dll

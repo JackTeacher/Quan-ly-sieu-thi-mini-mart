@@ -1,0 +1,45 @@
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\DAO\bin\Debug\net6.0\DAO.deps.json
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\DAO\bin\Debug\net6.0\DAO.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\DAO\bin\Debug\net6.0\DAO.pdb
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\DAO\bin\Debug\net6.0\DTO.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\DAO\bin\Debug\net6.0\DTO.pdb
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\DAO\obj\Debug\net6.0\DAO.csproj.AssemblyReference.cache
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\DAO\obj\Debug\net6.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\DAO\obj\Debug\net6.0\DAO.AssemblyInfoInputs.cache
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\DAO\obj\Debug\net6.0\DAO.AssemblyInfo.cs
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\DAO\obj\Debug\net6.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\DAO\obj\Debug\net6.0\DAO.csproj.CopyComplete
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\DAO\obj\Debug\net6.0\DAO.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\DAO\obj\Debug\net6.0\refint\DAO.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\DAO\obj\Debug\net6.0\DAO.pdb
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\DAO\obj\Debug\net6.0\ref\DAO.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\DAO\bin\Debug\net6.0\DAO.deps.json
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\DAO\bin\Debug\net6.0\DAO.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\DAO\bin\Debug\net6.0\DAO.pdb
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\DAO\bin\Debug\net6.0\DTO.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\DAO\bin\Debug\net6.0\DTO.pdb
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\DAO\obj\Debug\net6.0\DAO.csproj.AssemblyReference.cache
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\DAO\obj\Debug\net6.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\DAO\obj\Debug\net6.0\DAO.AssemblyInfoInputs.cache
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\DAO\obj\Debug\net6.0\DAO.AssemblyInfo.cs
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\DAO\obj\Debug\net6.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\DAO\obj\Debug\net6.0\DAO.csproj.CopyComplete
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\DAO\obj\Debug\net6.0\DAO.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\DAO\obj\Debug\net6.0\refint\DAO.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\DAO\obj\Debug\net6.0\DAO.pdb
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\DAO\obj\Debug\net6.0\ref\DAO.dll
+D:\C#\Mini-Mart by Nhung\DAO\bin\Debug\net6.0\DAO.deps.json
+D:\C#\Mini-Mart by Nhung\DAO\bin\Debug\net6.0\DAO.dll
+D:\C#\Mini-Mart by Nhung\DAO\bin\Debug\net6.0\DAO.pdb
+D:\C#\Mini-Mart by Nhung\DAO\bin\Debug\net6.0\DTO.dll
+D:\C#\Mini-Mart by Nhung\DAO\bin\Debug\net6.0\DTO.pdb
+D:\C#\Mini-Mart by Nhung\DAO\obj\Debug\net6.0\DAO.csproj.AssemblyReference.cache
+D:\C#\Mini-Mart by Nhung\DAO\obj\Debug\net6.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Mini-Mart by Nhung\DAO\obj\Debug\net6.0\DAO.AssemblyInfoInputs.cache
+D:\C#\Mini-Mart by Nhung\DAO\obj\Debug\net6.0\DAO.AssemblyInfo.cs
+D:\C#\Mini-Mart by Nhung\DAO\obj\Debug\net6.0\DAO.csproj.CoreCompileInputs.cache
+D:\C#\Mini-Mart by Nhung\DAO\obj\Debug\net6.0\DAO.csproj.CopyComplete
+D:\C#\Mini-Mart by Nhung\DAO\obj\Debug\net6.0\DAO.dll
+D:\C#\Mini-Mart by Nhung\DAO\obj\Debug\net6.0\refint\DAO.dll
+D:\C#\Mini-Mart by Nhung\DAO\obj\Debug\net6.0\DAO.pdb
+D:\C#\Mini-Mart by Nhung\DAO\obj\Debug\net6.0\ref\DAO.dll

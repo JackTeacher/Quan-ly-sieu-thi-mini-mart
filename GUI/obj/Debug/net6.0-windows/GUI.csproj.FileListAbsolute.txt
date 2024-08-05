@@ -1,0 +1,384 @@
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\ClosedXML.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\FontAwesome.Sharp.Pro.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\Guna.Charts.WinForms.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\Irony.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\XLParser.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\BUS.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\DAO.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\DTO.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\BUS.pdb
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\DTO.pdb
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\bin\Debug\net6.0-windows\DAO.pdb
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.BanHangForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.CacFormChiTiet.ChiTietHoaDonForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.ChiTietKhachHangForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.ChiTietLoaiSanPhamForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.ChiTietNguoiDungForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.ChiTietNhaCungCapForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.ChiTietPhanQuyenForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.CacFormChiTiet.ChiTietPhieuNhapForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.ChiTietSanPhamForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.CacFormChiTiet.SuaChiTietPhieuNhapForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.CacFormChiTiet.TestChiTietKhuyenMaiForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.CacFormChon.ChonKhuyenMai.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.CacFormChon.ChonNhaCungCap.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.CacFormChon.TestChonKhuyenMaiForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.DangNhapForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.HoaDonForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.KhachHangForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.KhuyenMaiForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.LoaiSanPhamForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.CacFormDuLieu.NguoiDungForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.NhaCungCapForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.PhanQuyenForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.PhieuNhapForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.SanPhamForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.CacFormThongBao.CanhBaoForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.CacFormThongBao.XacNhanForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.DoiMatKhauForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.DonDatHangControl.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.DonNhapHangUserControl.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.NhapHangForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.Properties.Resources.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.SanPhamControl.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.SanPhamNhapHangUserControl.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.TrangChuForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart-master\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\ClosedXML.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\FontAwesome.Sharp.Pro.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Guna.Charts.WinForms.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Irony.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\XLParser.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\BUS.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\DAO.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\DTO.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\BUS.pdb
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\DTO.pdb
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\DAO.pdb
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.BanHangForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.CacFormChiTiet.ChiTietHoaDonForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.ChiTietKhachHangForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.ChiTietLoaiSanPhamForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.ChiTietNguoiDungForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.ChiTietNhaCungCapForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.ChiTietPhanQuyenForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.CacFormChiTiet.ChiTietPhieuNhapForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.ChiTietSanPhamForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.CacFormChiTiet.SuaChiTietPhieuNhapForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.CacFormChiTiet.TestChiTietKhuyenMaiForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.CacFormChon.ChonKhuyenMai.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.CacFormChon.ChonNhaCungCap.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.CacFormChon.TestChonKhuyenMaiForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.DangNhapForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.HoaDonForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.KhachHangForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.KhuyenMaiForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.LoaiSanPhamForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.CacFormDuLieu.NguoiDungForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.NhaCungCapForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.PhanQuyenForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.PhieuNhapForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.SanPhamForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.CacFormThongBao.CanhBaoForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.CacFormThongBao.XacNhanForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.DoiMatKhauForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.DonDatHangControl.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.DonNhapHangUserControl.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.NhapHangForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.Properties.Resources.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.SanPhamControl.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.SanPhamNhapHangUserControl.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.TrangChuForm.resources
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\Luong Ngoc Quang\Downloads\Mini-Mart-master\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\GUI.exe
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\GUI.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\GUI.pdb
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\ClosedXML.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\FontAwesome.Sharp.Pro.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Guna.Charts.WinForms.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Guna.UI2.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Irony.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\System.Management.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\XLParser.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\BUS.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\DAO.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\DTO.dll
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\BUS.pdb
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\DTO.pdb
+D:\C#\Mini-Mart by Nhung\GUI\bin\Debug\net6.0-windows\DAO.pdb
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.BanHangForm.resources
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.CacFormChiTiet.ChiTietHoaDonForm.resources
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.ChiTietKhachHangForm.resources
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.ChiTietLoaiSanPhamForm.resources
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.ChiTietNguoiDungForm.resources
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.ChiTietNhaCungCapForm.resources
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.ChiTietPhanQuyenForm.resources
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.CacFormChiTiet.ChiTietPhieuNhapForm.resources
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.ChiTietSanPhamForm.resources
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.CacFormChiTiet.SuaChiTietPhieuNhapForm.resources
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.CacFormChiTiet.TestChiTietKhuyenMaiForm.resources
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.CacFormChon.ChonKhuyenMai.resources
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.CacFormChon.ChonNhaCungCap.resources
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.CacFormChon.TestChonKhuyenMaiForm.resources
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.DangNhapForm.resources
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.HoaDonForm.resources
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.KhachHangForm.resources
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.KhuyenMaiForm.resources
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.LoaiSanPhamForm.resources
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.CacFormDuLieu.NguoiDungForm.resources
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.NhaCungCapForm.resources
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.PhanQuyenForm.resources
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.PhieuNhapForm.resources
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.SanPhamForm.resources
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.CacFormThongBao.CanhBaoForm.resources
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.CacFormThongBao.XacNhanForm.resources
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.DoiMatKhauForm.resources
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.DonDatHangControl.resources
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.DonNhapHangUserControl.resources
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.NhapHangForm.resources
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.Properties.Resources.resources
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.SanPhamControl.resources
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.SanPhamNhapHangUserControl.resources
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.TrangChuForm.resources
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.dll
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.pdb
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+D:\C#\Mini-Mart by Nhung\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
